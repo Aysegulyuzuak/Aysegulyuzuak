@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aysegulyuzuak
-- 👀 I’m interested in SAP FI
+- 👀 I’m interested in SAP FI 
 - 🌱 I’m currently studied on SAP FI certificate.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me from aysgl.tsyzk@gmail.com
 
 <!---
